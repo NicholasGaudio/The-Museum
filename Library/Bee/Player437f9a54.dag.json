@@ -875,20 +875,20 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.WindModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.XRModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.dll",
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/Unity.Postprocessing.Runtime.dll",
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.Stl.dll",
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.dll",
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.Csg.dll",
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.Poly2Tri.dll",
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.KdTree.dll",
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/Unity.Postprocessing.Runtime.dll",
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.Stl.dll",
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.dll",
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.Csg.dll",
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.Poly2Tri.dll",
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.KdTree.dll",
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Facades/netstandard.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Mono.Security.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/System.ComponentModel.Composition.dll",
@@ -1794,7 +1794,7 @@
       "DisplayName": "Copying Assembly-CSharp.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll"
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll"
       ],
       "Outputs": [
         "Test Build/The Musuem_Data/Managed/Assembly-CSharp.dll"
@@ -1806,7 +1806,7 @@
       "DisplayName": "Copying Unity.Postprocessing.Runtime.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/Unity.Postprocessing.Runtime.dll"
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/Unity.Postprocessing.Runtime.dll"
       ],
       "Outputs": [
         "Test Build/The Musuem_Data/Managed/Unity.Postprocessing.Runtime.dll"
@@ -1818,7 +1818,7 @@
       "DisplayName": "Copying Unity.ProBuilder.Stl.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.Stl.dll"
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.Stl.dll"
       ],
       "Outputs": [
         "Test Build/The Musuem_Data/Managed/Unity.ProBuilder.Stl.dll"
@@ -1830,7 +1830,7 @@
       "DisplayName": "Copying Unity.ProBuilder.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.dll"
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.dll"
       ],
       "Outputs": [
         "Test Build/The Musuem_Data/Managed/Unity.ProBuilder.dll"
@@ -1842,7 +1842,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Core.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll"
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll"
       ],
       "Outputs": [
         "Test Build/The Musuem_Data/Managed/Unity.VisualScripting.Core.dll"
@@ -1854,7 +1854,7 @@
       "DisplayName": "Copying UnityEngine.UI.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll"
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll"
       ],
       "Outputs": [
         "Test Build/The Musuem_Data/Managed/UnityEngine.UI.dll"
@@ -1866,7 +1866,7 @@
       "DisplayName": "Copying Unity.ProBuilder.Csg.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.Csg.dll"
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.Csg.dll"
       ],
       "Outputs": [
         "Test Build/The Musuem_Data/Managed/Unity.ProBuilder.Csg.dll"
@@ -1878,7 +1878,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Flow.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll"
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll"
       ],
       "Outputs": [
         "Test Build/The Musuem_Data/Managed/Unity.VisualScripting.Flow.dll"
@@ -1890,7 +1890,7 @@
       "DisplayName": "Copying Unity.Timeline.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll"
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll"
       ],
       "Outputs": [
         "Test Build/The Musuem_Data/Managed/Unity.Timeline.dll"
@@ -1902,7 +1902,7 @@
       "DisplayName": "Copying Unity.ProBuilder.Poly2Tri.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.Poly2Tri.dll"
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.Poly2Tri.dll"
       ],
       "Outputs": [
         "Test Build/The Musuem_Data/Managed/Unity.ProBuilder.Poly2Tri.dll"
@@ -1914,7 +1914,7 @@
       "DisplayName": "Copying Unity.ProBuilder.KdTree.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.KdTree.dll"
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/Unity.ProBuilder.KdTree.dll"
       ],
       "Outputs": [
         "Test Build/The Musuem_Data/Managed/Unity.ProBuilder.KdTree.dll"
@@ -1926,7 +1926,7 @@
       "DisplayName": "Copying Unity.TextMeshPro.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll"
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll"
       ],
       "Outputs": [
         "Test Build/The Musuem_Data/Managed/Unity.TextMeshPro.dll"
@@ -1938,7 +1938,7 @@
       "DisplayName": "Copying Unity.VisualScripting.State.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll"
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll"
       ],
       "Outputs": [
         "Test Build/The Musuem_Data/Managed/Unity.VisualScripting.State.dll"
@@ -1950,7 +1950,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Antlr3.Runtime.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "C:/Users/ngaud/Documents/Unity/The Musuem/Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+        "C:/Users/ngaud/Documents/Unity/The Museum/Library/PackageCache/com.unity.visualscripting@1.9.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
       ],
       "Outputs": [
         "Test Build/The Musuem_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll"
@@ -2917,6 +2917,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/Player437f9a54.dag.json",
-  "PayloadsFile": "C:/Users/ngaud/Documents/Unity/The Musuem/Library/Bee/Player437f9a54.dag.payloads",
+  "PayloadsFile": "C:/Users/ngaud/Documents/Unity/The Museum/Library/Bee/Player437f9a54.dag.payloads",
   "RelativePathToRoot": "../.."
 }
